@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <Authors>Doomer3D&lt;doomer.net@gmail.com&gt;</Authors>
+    <Company>Genomancer</Company>
+    <Description>Простой пример использования библиотеки</Description>
+    <RootNamespace>Genesis.DAWG.SimpleUsage</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Genesis.DAWG\Genesis.DAWG.csproj" />
+  </ItemGroup>
+
+</Project>

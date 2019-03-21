@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <Authors>Doomer3D&lt;doomer.net@gmail.com&gt;</Authors>
+    <Company>Genomancer</Company>
+    <LangVersion>latest</LangVersion>
+    <Description>Библиотека, реализующая детерминированный ацикличный конечный автомат (DAWG)</Description>
+    <PackageTags>dawg, text search, compression</PackageTags>
+  </PropertyGroup>
+
+</Project>
