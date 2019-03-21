@@ -8,6 +8,11 @@
     <Company>Genomancer</Company>
     <Description>Простой пример использования библиотеки</Description>
     <RootNamespace>Genesis.DAWG.SimpleUsage</RootNamespace>
+    <Copyright>2019 Копытов Дмитрий</Copyright>
+    <PackageLicenseUrl>https://github.com/Doomer3D/Genesis.DAWG/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/Doomer3D/Genesis.DAWG</PackageProjectUrl>
+    <PackageIconUrl>https://github.com/Doomer3D/Genesis.DAWG/blob/master/icon.png?raw=true</PackageIconUrl>
+    <RepositoryUrl>https://github.com/Doomer3D/Genesis.DAWG</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>

@@ -6,6 +6,12 @@
     <LangVersion>latest</LangVersion>
     <Authors>Doomer3D&lt;doomer.net@gmail.com&gt;</Authors>
     <Company>Genomancer</Company>
+    <PackageProjectUrl>https://github.com/Doomer3D/Genesis.DAWG</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Doomer3D/Genesis.DAWG</RepositoryUrl>
+    <PackageIconUrl>https://github.com/Doomer3D/Genesis.DAWG/blob/master/icon.png?raw=true</PackageIconUrl>
+    <Copyright>2019 Копытов Дмитрий</Copyright>
+    <PackageLicenseUrl>https://github.com/Doomer3D/Genesis.DAWG/blob/master/LICENSE</PackageLicenseUrl>
+    <Description>Пример обработки большого массива слов русского языка</Description>
   </PropertyGroup>
 
   <ItemGroup>
